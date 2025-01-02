@@ -46,5 +46,5 @@ def process_file(file_name):
     print(f"Time taken to process file {file_name}: {time_taken:.3f} milli seconds")
 
 
-process_file('Input_01.txt')  # For smaller file
-process_file('Input_02.txt')  # For larger file
+process_file('Input_01.txt') 
+process_file('Input_02.txt') 
